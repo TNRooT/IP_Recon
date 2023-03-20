@@ -2,7 +2,7 @@
 #### Automates the process of scanning a list of IP addresses for vulnerabilities and security issues by running a set of selected tools on each IP address.
 
 
-![/banner.png](https://github.com/TNRooT/IP_Recon/blob/master/banner.png)
+![/banner.png](https://github.com/TNRooT/IP_Recon/blob/master/Banner.png)
 #### Key Features :
 
    - User-friendly: The script prompts the user to input the path to a file of IP addresses and provides clear feedback on the progress and results of the scans.
